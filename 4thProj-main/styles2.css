@@ -1,0 +1,77 @@
+body {
+   background-image: url("pic2.jpg");
+    text-align: justify;
+    tab-size: 30px;
+    font-size: medium;
+
+}
+.Registration {
+    margin-top: 700px;
+    background-color: #708c69;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.Registration h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.Registration p {
+    font-size: 18px;
+    margin-bottom: 40px;
+    color: white
+}
+
+#Registration-form {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+    margin-top: 200px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+    color: white
+
+}
+
+.form-group label {
+    display: block;
+    font-size: 20px;
+    margin-bottom: 8px;
+    color: white;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.form-group textarea {
+    resize: vertical;
+    height: 100px;
+}
+
+.submit {
+    background-color: #d7431e;
+    font-size: large;
+    color: #fff;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.submit.hover {
+    background-color: #dad5e8;
+}
