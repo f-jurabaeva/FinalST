@@ -1,1 +1,6 @@
-# FinalST
+![Screenshot (2)](https://github.com/f-jurabaeva/FinalST/assets/75970608/c1a43c44-9a46-4eef-b474-b353d7439d01)
+![Screenshot (3)](https://github.com/f-jurabaeva/FinalST/assets/75970608/3bf5c3d4-4745-454c-963e-da647e00160f)
+![Screenshot (4)](https://github.com/f-jurabaeva/FinalST/assets/75970608/a78e2999-6284-46db-a347-6fd91f770b29)
+![Screenshot (5)](https://github.com/f-jurabaeva/FinalST/assets/75970608/a4813016-fa46-4d8d-b61b-411750a68e61)
+![Screenshot (6)](https://github.com/f-jurabaeva/FinalST/assets/75970608/33edc399-0083-4e03-9038-69ddeafc31bd)
+![Screenshot (7)](https://github.com/f-jurabaeva/FinalST/assets/75970608/2962956f-94f4-4726-ae81-fe3d750638be)
